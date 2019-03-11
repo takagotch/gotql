@@ -148,7 +148,7 @@ query { users(type: internal) { name age }}
 query { users(type: "internal") { name age } }
 ```
 
-```
+```sh
 npm install gotql
 
 yarn install gotql
